@@ -6,3 +6,4 @@
 aluno = {'nome': 'will', 'idade': 14, 'nota': 10, 'aprovação': True}
 
 print(aluno['nome'])
+print(aluno['idade'])
