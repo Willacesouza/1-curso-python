@@ -1,4 +1,4 @@
-aluno = {"nome": "willace", "idade": 14, "aprovação": False}
+aluno = {"nome": "willace", "idade": 14, "aprovação": True}
 
 #imprime so as chaves
 for x in aluno.keys():
