@@ -4,4 +4,5 @@ let_list = ["a", "b", "c", "d"]
 let_tuples = ("a", "b", "c", "d")
 let_list.append("e")
 
+print (let_tuples)
 print (let_list)
